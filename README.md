@@ -9,8 +9,7 @@ step 3 - clone it to your local machine
 step 4 - make a new branch, git chekout -b new_branch_name
 
 step 5 -make your change as the path and 
-        git remote add upstream https://github.com/Koncept55/Cardinal-Health.git
-
+        git remote add upstream (https://github.com/Davido-sesay55/CardinalHealth.git)
 step 6 - Add to the staging area by git add .
 
 step 7 - make a committ by git committ -m "update info"
